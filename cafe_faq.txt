@@ -4,6 +4,8 @@ Q1: What is Cafe Everglow’s address?
 A1: Cafe Everglow is located at 123 Maple Street, Willow Creek, 98765, USA.
 Q2: What are your regular business hours?
 A2: Our regular hours are Monday to Friday: 7:00 AM – 8:00 PM; Saturday to Sunday: 8:00 AM – 9:00 PM. We are closed only on Christmas Day (December 25th) and New Year’s Day (January 1st).
+Q2b: What time do you open and close?
+A2b: We open at 7:00 AM on weekdays (Monday–Friday) and 8:00 AM on weekends. We close at 8:00 PM on weekdays and 9:00 PM on weekends.
 Q3: Do you have a phone number for reservations or inquiries?
 A3: Yes, our phone number is (555) 123-4567. We accept reservations for groups of 6 or more, up to 7 days in advance.
 Q4: Is there a parking lot available for customers?
