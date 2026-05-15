@@ -1,14 +1,15 @@
 import os
-os.environ["HF_ENDPOINT"] = "https://hf-mirror.com"
-from dotenv import load_dotenv
-load_dotenv()
+import re
 import numpy as np
-from sentence_transformers import SentenceTransformer
+from dotenv import load_dotenv
+from sklearn.feature_extraction.text import TfidfVectorizer
+from sklearn.metrics.pairwise import cosine_similarity
 import anthropic
+
+load_dotenv()
 
 
 def load_faqs(filepath):
-    import re
     faqs = []
     with open(filepath, 'r', encoding='utf-8') as f:
         lines = f.readlines()
@@ -28,24 +29,21 @@ def load_faqs(filepath):
     return faqs
 
 
-def cosine_similarity(a, b):
-    return np.dot(a, b) / (np.linalg.norm(a) * np.linalg.norm(b))
-
-
 class RAGBot:
     def __init__(self, faq_path='cafe_faq.txt'):
-        self.model = SentenceTransformer('all-MiniLM-L6-v2')
         self.faqs = load_faqs(faq_path)
-        self.embeddings = self.model.encode([faq['text'] for faq in self.faqs])
+        texts = [faq['text'] for faq in self.faqs]
+        self.vectorizer = TfidfVectorizer()
+        self.embeddings = self.vectorizer.fit_transform(texts)
         self.client = anthropic.Anthropic(
             base_url='https://api.pateway.ai',
             api_key=os.environ.get('PATEWAY_API_KEY')
         )
 
     def retrieve(self, query, top_k=3):
-        query_embedding = self.model.encode([query])[0]
-        similarities = [cosine_similarity(query_embedding, emb) for emb in self.embeddings]
-        top_indices = np.argsort(similarities)[-top_k:][::-1]
+        query_vec = self.vectorizer.transform([query])
+        scores = cosine_similarity(query_vec, self.embeddings)[0]
+        top_indices = np.argsort(scores)[-top_k:][::-1]
         return [self.faqs[i] for i in top_indices]
 
     def generate(self, query, retrieved_faqs):

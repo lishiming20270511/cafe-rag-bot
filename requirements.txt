@@ -1,7 +1,5 @@
- streamlit
-  anthropic
-  sentence-transformers
-  numpy
-  python-dotenv
-  torch
-  torchvision
+streamlit
+anthropic
+scikit-learn
+numpy
+python-dotenv
