@@ -1,3 +1,4 @@
+import os
 import streamlit as st
 from rag import RAGBot
 
@@ -5,11 +6,14 @@ st.title("Cafe FAQ Bot")
 
 
 @st.cache_resource
-def load_bot():
+def load_bot(_faq_mtime):
     return RAGBot()
 
 
-bot = load_bot()
+_faq_mtime = os.path.getmtime("cafe_faq.txt") if os.path.exists("cafe_faq.txt") else 0
+
+
+bot = load_bot(_faq_mtime)
 
 if 'messages' not in st.session_state:
     st.session_state.messages = []
