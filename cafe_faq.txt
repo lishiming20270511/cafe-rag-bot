@@ -1,0 +1,93 @@
+# Cafe Everglow FAQ (RAG Database for Upwork Portfolio)
+## Basic Information
+Q1: What is Cafe Everglow’s address?
+A1: Cafe Everglow is located at 123 Maple Street, Willow Creek, 98765, USA.
+Q2: What are your regular business hours?
+A2: Our regular hours are Monday to Friday: 7:00 AM – 8:00 PM; Saturday to Sunday: 8:00 AM – 9:00 PM. We are closed only on Christmas Day (December 25th) and New Year’s Day (January 1st).
+Q3: Do you have a phone number for reservations or inquiries?
+A3: Yes, our phone number is (555) 123-4567. We accept reservations for groups of 6 or more, up to 7 days in advance.
+Q4: Is there a parking lot available for customers?
+A4: Yes, we have a small free parking lot with 15 spots at the back of the cafe. Additional street parking is available on Maple Street (free for the first 2 hours, $1 per hour after that).
+Q5: What is the WiFi password?
+A5: Our WiFi name is “Everglow_Cafe” and the password is “coffeelove123” (case-sensitive). The WiFi is free for all customers and has no time limit.
+Q6: Is the cafe wheelchair accessible?
+A6: Yes, we have a ramp at the main entrance, wide aisles, and an accessible restroom on the first floor.
+Q7: Do you allow pets in the cafe?
+A7: We welcome well-behaved service animals. Unfortunately, we cannot allow non-service pets inside, but we have a small outdoor seating area where you can sit with your pet.
+## Menu & Pricing
+Q8: What types of coffee do you offer?
+A8: We offer a variety of coffee drinks, including Espresso ($3.50), Americano ($4.00), Latte ($5.00), Cappuccino ($5.00), Mocha ($5.50), Flat White ($5.25), Cold Brew ($4.75), and Pour Over ($5.75).
+Q9: Do you have non-coffee drinks?
+A9: Yes! We have hot tea ($3.75-$4.50), iced tea ($4.00-$4.75), hot chocolate ($4.50), smoothies ($6.00-$7.00), lemonade ($4.00), and sparkling water ($3.00).
+Q10: What sizes do your drinks come in?
+A10: Most drinks are available in Small (8oz), Medium (12oz), and Large (16oz). Cold Brew and Smoothies are only available in Medium (12oz) and Large (16oz).
+Q11: Do you offer plant-based milk options?
+A11: Yes, we have oat milk, almond milk, and soy milk. Each plant-based milk substitution costs an additional $0.75.
+Q12: What pastries and food items do you serve?
+A12: Our food menu includes croissants ($3.25), muffins ($3.00), scones ($3.50), bagels with cream cheese ($4.25), avocado toast ($6.50), turkey sandwiches ($7.50), and a daily soup ($5.00).
+Q13: Do you have gluten-free or vegan food options?
+A13: Yes! We have gluten-free muffins, scones, and bagels. Our vegan options include oat milk lattes, vegan smoothies, avocado toast (without cheese), and a vegan soup of the day.
+Q14: How much is a slice of your homemade cake?
+A14: Our homemade cakes (chocolate, vanilla, and seasonal flavors) are $4.75 per slice. Whole cakes are available for pre-order at $35.00 (6-inch) or $55.00 (9-inch).
+Q15: Do you offer any daily specials?
+A15: Yes! Every weekday from 7:00 AM – 9:00 AM, we have a “Breakfast Bundle”: a small coffee + a pastry for $6.00. On weekends, we offer a “Brunch Special”: avocado toast + a medium latte for $10.00.
+Q16: Can I customize my drink (e.g., less sugar, extra shot)?
+A16: Absolutely! You can request less sugar, no sugar, extra espresso shot ($1.00), extra syrup ($0.50), or other customizations at no extra cost (except for extra shots/syrups).
+## Allergens
+Q17: What allergens are present in your food and drinks?
+A17: Our cafe uses wheat, dairy, eggs, nuts (almonds, walnuts, pecans), and soy in various menu items. We cannot guarantee cross-contamination-free preparation, as all items are made in the same kitchen.
+Q18: Do you have nut-free options?
+A18: We offer some nut-free pastries (plain croissants, vanilla muffins) and drinks (no nut-based syrups). However, our kitchen handles nuts, so we cannot guarantee 100% nut-free products.
+Q19: Is your oat milk gluten-free?
+A19: Yes, our oat milk is certified gluten-free. We also have gluten-free syrups and toppings available.
+Q20: Can you provide a full allergen list for a specific menu item?
+A20: Yes! You can ask any staff member for a detailed allergen list for any menu item, or you can request a digital copy via email.
+## Takeout & Delivery
+Do you offer takeout?
+A26: Yes, we offer in-store takeout. You can also order takeout online via our website or through third-party apps (Uber Eats, DoorDash, Grubhub).
+Q27: Do you deliver?
+A27: Yes, we deliver via Uber Eats, DoorDash, and Grubhub. Our own delivery service is available for orders over $20 within a 5-mile radius, with a $3.00 delivery fee.
+Q28: What is the minimum order for delivery?
+A28: For third-party apps, the minimum order is $10. For our in-house delivery, the minimum order is $20.
+Q29: How long does delivery take?
+A29: Delivery times vary by location, but typically 20-40 minutes. During peak hours (8-10 AM, 12-2 PM), delivery may take up to 50 minutes.
+Q30: Do you charge a takeout fee?
+A30: No, we do not charge a takeout fee for in-store orders. Third-party apps may charge their own service fees.
+Q31: Can I pre-order takeout or delivery?
+A31: Yes! You can pre-order takeout via our website up to 24 hours in advance. For delivery, pre-orders are available via third-party apps up to 7 days in advance.
+Q32: What is your policy for cold drinks during delivery?
+A32: We use insulated packaging to keep cold drinks cold and hot drinks hot. If your drink arrives at the wrong temperature, please contact us within 30 minutes for a refund or replacement.
+## Membership & Rewards
+Q33: Do you have a membership or rewards program?
+A33: Yes, our “Everglow Rewards” program is free to join. You can sign up in-store or via our app.
+Q34: How do I earn points?
+A34: You earn 1 point for every $1 spent on food and drinks. For every 50 points, you get a free medium drink of your choice. For every 100 points, you get a free meal (sandwich or soup + medium drink).
+Q35: Do points expire?
+A35: Points expire 6 months after the date they are earned. We will send you a reminder email 1 month before your points expire.
+Q36: Can I use my rewards for takeout or delivery?
+A36: Yes! You can redeem your rewards for in-store orders, takeout, and delivery (via our website or app; third-party apps do not support reward redemption).
+Q37: Do members get any extra benefits?
+A37: Yes! Members get a free birthday drink (any size) during their birthday month, early access to seasonal menu items, and 10% off on their 10th visit each month.
+Q38: How do I check my point balance?
+A38: You can check your point balance in-store (ask a staff member), via our app, or by logging into your account on our website.
+## Other Policies
+Q39: Do you accept cash or only card payments?
+A39: We accept both cash and card payments (Visa, Mastercard, American Express, Discover). We also accept mobile payments (Apple Pay, Google Pay).
+Q40: Can I host a private event at the cafe?
+A40: Yes! We offer private event rental for groups of 15-30 people. The rental fee is $100 per hour (minimum 2 hours), and we can provide a custom catering menu. Please contact us at least 2 weeks in advance to book.
+Q41: Do you sell gift cards?
+A41: Yes! We sell physical gift cards (in-store) and digital gift cards (via our website) in denominations of $10, $25, $50, and $100. Gift cards do not expire and can be used for in-store, takeout, and delivery orders.
+Q42: What is your refund policy?
+A42: We want you to be happy with your order! If you are unsatisfied with your food or drink, please bring it back to us (or contact us for delivery/takeout) within 30 minutes for a refund or replacement. Gift cards are non-refundable.
+Q43: Do you offer catering for offices or events?
+A43: Yes! We offer catering for offices, meetings, and small events. Our catering menu includes coffee boxes, pastries, sandwiches, and salads. Please contact us at least 3 days in advance to place a catering order.
+Q44: Can I bring my own mug or tumbler?
+A44: Yes! We encourage customers to bring their own reusable mugs/tumblers. You will get a $0.50 discount on your drink when you use your own container.
+Q45: Do you have a loyalty card (paper version) for customers who don’t want to use the app?
+A45: Yes! We have paper loyalty cards available in-store. Get your card stamped for every purchase, and after 10 stamps, you get a free medium drink.
+Q46: Are there any discounts for students or seniors?
+A46: Yes! Students (with a valid student ID) and seniors (65+) get 10% off their order every weekday (excluding specials).
+Q47: Do you play music in the cafe? What genre?
+A47: Yes, we play soft, instrumental music (acoustic, jazz, lo-fi) to create a calm and cozy atmosphere. The volume is kept low to allow for conversation.
+Q48: Can I work or study in the cafe?
+A48: Yes! We welcome customers to work or study in the cafe. We have free WiFi, plenty of seating (including tables with power outlets), and a quiet corner for focused work. There is no time limit, but we ask that you purchase at least one item every 2 hours.
